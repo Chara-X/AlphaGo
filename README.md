@@ -1,1 +1,7 @@
 # AlphaGo
+
+通过给电脑赋予人工智能，利用电脑运算速度快的特点，结合五子棋的游戏规则，给电脑设定固定的扫描方式，设定权值，使电脑能够选择最合适的落子点，实现简单的人机对弈。
+
+## Examples
+
+![img](http://www.kdocs.cn/api/v3/office/copy/ZGsyMFkwZ0JGRkNEcEtNWElsWjBOZmdHa3hqMGxwanhHa24rQnc5eTVMdVYza1l6YmtDK0pSamhLdFhFdTM4UmY0TzI2UHROaGZWSExkc05iWUhEcVpsb3RYNHNpZ1VFS0I1VTdDVGRtWjNzUzBKTS9hYjRWUndUL0t3M0lWS04xMmVhTlQvWVBjTWh0VUJuNTZRYUhRWmFsRWN3QjdwNnpaNldFTWlXalA3U1gvQmNLSnhQVlhIS2UrTTRoVi94U0dpUEo0OFpGeFBQZ1M2VDgySEc4cTVGbXhudWhkSFFmdUlBQ1lYVjcvek1TTGNVRVNMVEVwaEZUUm9yQ3JIRDl5VzFISzNiWHpBPQ==/attach/object/OW7YGBIAIY?)
