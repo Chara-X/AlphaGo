@@ -4,4 +4,4 @@
 
 ## Examples
 
-![img](http://www.kdocs.cn/api/v3/office/copy/ZGsyMFkwZ0JGRkNEcEtNWElsWjBOZmdHa3hqMGxwanhHa24rQnc5eTVMdVYza1l6YmtDK0pSamhLdFhFdTM4UmY0TzI2UHROaGZWSExkc05iWUhEcVpsb3RYNHNpZ1VFS0I1VTdDVGRtWjNzUzBKTS9hYjRWUndUL0t3M0lWS04xMmVhTlQvWVBjTWh0VUJuNTZRYUhRWmFsRWN3QjdwNnpaNldFTWlXalA3U1gvQmNLSnhQVlhIS2UrTTRoVi94U0dpUEo0OFpGeFBQZ1M2VDgySEc4cTVGbXhudWhkSFFmdUlBQ1lYVjcvek1TTGNVRVNMVEVwaEZUUm9yQ3JIRDl5VzFISzNiWHpBPQ==/attach/object/OW7YGBIAIY?)
+![img](https://gitee.com/chara-x/resources/raw/master/Images/AlphaGo/%E5%B1%8F%E5%B9%95%E5%BD%95%E5%88%B6%202023-12-08%20033036%5B00h00m00s-00h00m18s%5D.gif)
